@@ -4,13 +4,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 This project demostractes how Electron and Angular can work together and communicate each other via IPC.
 
-This is good starting point for electron based angular desktop application.
-
-This is not the perfect arrangement for your application. It is not designed for production. It good to started quickly with learning and prototyping in Angular.
+It is good to started quickly with learning and prototyping in Angular.
 
 ## Prerequisites
 
 Node.js and npm are essential to Angular development. Get it now (https://docs.npmjs.com/getting-started/installing-node) if it's not already installed on your machine.
+
+Once you have installed Node.js, clone the repository. if you are new to git, check out the <a href='https://help.github.com/articles/cloning-a-repository/'>guide to cloning a repository</a>.
+
+<code>git clone https://github.com/jitsthr/angular-electron</code>
 
 ## Install Missing Modules
 
