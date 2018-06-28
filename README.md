@@ -19,13 +19,12 @@ git clone https://github.com/jitsthr/angular-electron
 
 <b>Go into the repository</b>
 <code>
-$ cd electron-quick-start
+$ cd angular-electron
 </code>
 
 <b>Install the dependencies and run</b>
 <code>
 $ npm install && npm start
-
 </code>
 
 ## Install Missing Modules
