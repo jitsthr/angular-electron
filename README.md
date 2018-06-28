@@ -12,7 +12,21 @@ Node.js and npm are essential to Angular development. Get it now (https://docs.n
 
 Once you have installed Node.js, clone the repository. if you are new to git, check out the <a href='https://help.github.com/articles/cloning-a-repository/'>guide to cloning a repository</a>.
 
-<code>git clone https://github.com/jitsthr/angular-electron</code>
+<b>Clone the repository</b>
+<code>
+git clone https://github.com/jitsthr/angular-electron
+</code>
+
+<b>Go into the repository</b>
+<code>
+$ cd electron-quick-start
+</code>
+
+<b>Install the dependencies and run</b>
+<code>
+$ npm install && npm start
+
+</code>
 
 ## Install Missing Modules
 
